@@ -24,4 +24,48 @@ public class Chapter1 {
     public boolean areOnlyUniqueChars2(String string){
         return true;
     }
+
+
+    public boolean isPermutation(String string){
+        return true;
+    }
+
+
+    public String withoutSpaces(String string){
+        return null;
+    }
+
+
+    public boolean isPalindromePermutation(String string){
+        return false;
+    }
+
+
+    public boolean oneEditAway(String string){
+        return false;
+    }
+
+
+    public String stringCompression(String string){
+
+        return null;
+    }
+
+
+    public int[][] rotateMatrix(int [][] matrix){
+
+        return new int[][]{};
+    }
+
+
+    public int[][] zeroMatrix(int [][] matrix){
+        return new int[][]{};
+    }
+
+
+
+    public boolean isRotation(String s1, String s2){
+        return true;
+    }
+
 }
